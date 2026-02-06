@@ -102,15 +102,12 @@
                     </div>
                 </div>
                 <a href="process.php" class="hover:text-emerald-600 transition">Our Process</a>
-                <a href="#" class="hover:text-emerald-600 transition">Our Services</a>
-                <a href="#" class="hover:text-emerald-600 transition">Inspiration</a>
-                <a href="#" class="hover:text-emerald-600 transition">Sustainability</a>
-                <a href="#" class="hover:text-emerald-600 transition">Contact Us</a>
+                <a href="services.php" class="hover:text-emerald-600 transition">Our Services</a>
+                <a href="inspiration.php" class="hover:text-emerald-600 transition">Inspiration</a>
+                <a href="sustainability.php" class="hover:text-emerald-600 transition">Sustainability</a>
+                <a href="contact.php" class="hover:text-emerald-600 transition">Contact Us</a>
             </div>
 
-            <!-- Logout/Action -->
-            <div class="hidden md:block">
-                <a href="#" class="text-sm font-medium text-gray-600 hover:text-red-500">Logout</a>
-            </div>
+
         </div>
     </nav>
