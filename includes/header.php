@@ -26,9 +26,9 @@
                     },
                     fontFamily: {
                         sans: ['Inter', 'sans-serif'],
-                        serif: ['Playfair Display', 'serif'],
+                        serif: ['Inter', 'sans-serif'], // Changed to Inter to match user request
                     }
-                }
+        }
             }
         }
     </script>
@@ -43,7 +43,7 @@
         h4,
         h5,
         h6 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Inter', sans-serif;
         }
 
         .hero-overlay {
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="#" class="hover:text-emerald-600 transition">Our Process</a>
+                <a href="process.php" class="hover:text-emerald-600 transition">Our Process</a>
                 <a href="#" class="hover:text-emerald-600 transition">Our Services</a>
                 <a href="#" class="hover:text-emerald-600 transition">Inspiration</a>
                 <a href="#" class="hover:text-emerald-600 transition">Sustainability</a>
