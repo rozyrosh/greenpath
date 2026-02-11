@@ -29,7 +29,7 @@
             <div
                 class="group bg-white rounded-2xl overflow-hidden shadow-xl border border-gray-100 transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
                 <div class="h-64 overflow-hidden relative">
-                    <img src="assets/images/gallery_interior.png" alt="Art Consultation"
+                    <img src="assets/images/gift_items.png" alt="Art Consultation"
                         class="w-full h-full object-cover transform duration-700 group-hover:scale-105">
                 </div>
                 <div class="p-8 md:p-10">

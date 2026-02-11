@@ -29,7 +29,7 @@
                 <!-- Decorative Frame Effect -->
                 <div class="absolute -top-4 -left-4 w-full h-full border-2 border-emerald-100 rounded-2xl z-0"></div>
                 <div class="relative rounded-2xl overflow-hidden shadow-2xl z-10 group">
-                    <img src="assets/images/gallery_interior.png" alt="Green Path Gallery Interior"
+                    <img src="assets/images/handmade_crafts.png" alt="Traditional Crafts at Green Path Gallery"
                         class="w-full h-auto object-cover transform transition duration-700 group-hover:scale-105">
                     <div
                         class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
